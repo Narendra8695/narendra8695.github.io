@@ -1,7 +1,7 @@
 [
 	{
 		"appIcon": "https://ndroidapps.com/games/thumbnails/mgh2.png",
-		"appName": "GamesHun - Offline Games",
+		"appName": "GamesHub - Offline Games",
 		"appDescription": "Download and enjoy 50+ offline Games for free.",
 		"url": "https://play.google.com/store/apps/details?id=com.ndroidapps.gameshub&referrer=utm_source%3DGames"
 	},
@@ -10,11 +10,5 @@
 		"appName": "HD Wallpapers",
 		"appDescription": "Enjoy awesome collection of HD Wallpapers",
 		"url": "https://play.google.com/store/apps/details?id=com.ndroidapps.wallpapers&referrer=utm_source%3DGames"
-	},
-	{
-		"appIcon": "https://ndroidapps.com/games/thumbnails/mgh2.png",
-		"appName": "GamesHun - Offline Games",
-		"appDescription": "Download and enjoy 50+ offline Games for free.",
-		"url": "https://play.google.com/store/apps/details?id=com.ndroidapps.gameshub&referrer=utm_source%3DGames"
 	}
 ]
