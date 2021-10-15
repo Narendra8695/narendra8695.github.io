@@ -43,19 +43,6 @@
     "image_path": "https://ndroidapps.com/games/thumbnails/joysick_1.png"
   },
   {
-    "name":  "Smart Money",
-    "description": "sponsored",
-    "url": "https://youtube.com/shorts/TWZRRRr1uUc",
-    "categories": [""],
-    "orientation": "port",
-     "info": "Why Personal Finance is not taught in School",
-    "open": "3",
-    "sa":"1",
-    "direct":"1",
-    "button": "View",
-    "image_path": "https://ndroidapps.com/sm.png"
-  },
-  {
     "name":  "Girls Games",
     "description": "sponsored",
     "url": "https://play.google.com/store/apps/details?id=com.ndroidapps.girlsgames&referrer=utm_source%3DGames",
