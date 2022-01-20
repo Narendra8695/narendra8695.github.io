@@ -38,6 +38,20 @@
     "direct":"2",
     "button": "Play Now",
     "image_path": "https://ndroidapps.com/games/thumbnails/joysick_1.png"
+  },
+  {
+    "name":  "AtmeQuiz",
+    "description": "sponsored",
+    "url": "https://play203.atmequiz.com/",
+    "categories": [""],
+    "orientation": "port",
+    "msb": "1",
+    "info": "Check and improve your knowledge by playing Quiz. Play General Knowledge, Sports, Cricket, Technology, Business, World, History and Movies & Celebrity Quizzes.",
+    "open": "2",
+    "sa":"1",
+    "direct":"2",
+    "button": "Play Now",
+    "image_path": "https://ndroidapps.com/games/thumbnails/1.png"
   }
 
 ]
