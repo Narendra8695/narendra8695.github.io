@@ -56,6 +56,20 @@
     "button": "Play Now",
     "image_path": "https://ndroidapps.com/games/thumbnails/gg.png"
   },
+   {
+    "name":  "AtmeQuiz",
+    "description": "sponsored",
+    "url": "https://play203.atmequiz.com/",
+    "categories": [""],
+    "orientation": "port",
+    "msb": "1",
+    "info": "Play General Knowledge, Sports, Cricket, Technology, Business, World, Movies & Celebrity and lot more Quizzes.",
+    "open": "2",
+    "sa":"1",
+    "direct":"2",
+    "button": "Play Now",
+    "image_path": "https://ndroidapps.com/games/thumbnails/1.png"
+  },
   {
     "name":  "HD Wallpapers",
     "description": "sponsored | Must Try ",
