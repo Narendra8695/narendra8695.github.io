@@ -42,6 +42,19 @@
     "button": "Play Now",
     "image_path": "https://ndroidapps.com/games/thumbnails/joysick_1.png"
   },
+  {
+    "name":  "Settings",
+    "description": "settings",
+    "url": "setting",
+    "categories": [""],
+    "orientation": "port",
+     "info": "Settings",
+    "open": "2",
+    "sa":"1",
+    "direct":"2",
+    "button": "Play",
+    "image_path": "https://ndroidapps.com/games/thumbnails/set.png"
+  },
    {
     "name":  "Girls Games",
     "description": "sponsored",
@@ -82,19 +95,5 @@
     "direct":"2",
     "button": "Download",
     "image_path": "https://ndroidapps.com/games/thumbnails/whd.png"
-  },
-  {
-    "name":  "Settings",
-    "description": "settings",
-    "url": "setting",
-    "categories": [""],
-    "orientation": "port",
-     "info": "Settings",
-    "open": "2",
-    "sa":"1",
-    "direct":"2",
-    "button": "Play",
-    "image_path": "https://ndroidapps.com/games/thumbnails/set.png"
   }
-
 ]
