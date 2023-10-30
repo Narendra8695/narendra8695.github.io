@@ -16,6 +16,19 @@
     "mopen":"3",
     "image_path": "https://ndroidapps.com/games/thumbnails/mgh2.png"
   },
+   {
+    "name":  "Criczop",
+    "description": "sponsored",
+    "url": "https://7883.sports.quizzop.com/",
+    "categories": [""],
+    "orientation": "port",
+    "info": "Cricket world cup scores, updates & Quizzes.",
+    "open": "2",
+    "sa":"1",
+    "direct":"2",
+    "button": "Open Now",
+    "image_path": "https://ndroidapps.com/games/thumbnails/cwc.jpg"
+  },
   {
     "name":  "Quiz",
     "description": "sponsored",
