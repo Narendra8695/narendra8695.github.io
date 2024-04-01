@@ -17,12 +17,12 @@
     "image_path": "https://ndroidapps.com/games/thumbnails/mgh2.png"
   },
    {
-    "name":  "Criczop",
+    "name":  "IPL Live",
     "description": "sponsored",
     "url": "https://7883.sports.quizzop.com/",
     "categories": [""],
     "orientation": "port",
-    "info": "Cricket world cup scores, updates & Quizzes.",
+    "info": "IPL scores, updates & Quizzes.",
     "open": "2",
     "sa":"1",
     "direct":"1",
